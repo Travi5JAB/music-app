@@ -29,7 +29,7 @@ export default class Track extends React.Component {
           <p className = "trackAlbum">Album Name</p>
           <p className = "trackTime">3:00</p>
           <div className = "playBar">
-            <audio ref= "audio_tag" src = "sample.mp3" controls>
+            <audio ref= "audio_tag" src = "https://file-examples.com/wp-content/uploads/2017/11/file_example_MP3_700KB.mp3" controls>
             </audio>
           </div>
         </div>
